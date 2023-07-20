@@ -6,8 +6,11 @@ on:
   workflow_dispatch:
 
 jobs:
-  call-workflow-passing-data:
+  stale:
     uses: cisco-ospo/.github/.github/workflows/stale.yml@main
+    permissions:
+      issues: write
+      pull-requests: write
     with:
       days-before-stale: 2
       days-before-close: 7
