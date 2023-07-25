@@ -13,4 +13,4 @@ jobs:
       pull-requests: write
     with:
       days-before-stale: 1
-      days-before-close: 7
+      days-before-close: 2
