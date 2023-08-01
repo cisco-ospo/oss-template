@@ -12,5 +12,5 @@ jobs:
       issues: write
       pull-requests: write
     with:
-      days-before-stale: 1
-      days-before-close: 2
+      days-until-stale: 1
+      days-until-close: 2
