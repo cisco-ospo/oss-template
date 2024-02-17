@@ -18,5 +18,5 @@ jobs:
       - name: ⬇️ lint markdown files
         uses: avto-dev/markdown-lint@04d43ee9191307b50935a753da3b775ab695eceb # v1.5.0
         with:
-          config: '.markdownlint.json'
-          args: '**/*.md .github/**/*.md'
+          config: ".markdownlint.json"
+          args: "**/*.md .github/**/*.md"
