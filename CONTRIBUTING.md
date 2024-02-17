@@ -4,12 +4,12 @@ Thanks for your interest in contributing to `<project name>`! Here are a few gen
 reporting bugs that we ask you to review. Following these guidelines helps to communicate that you respect the time of
 the contributors managing and developing this open source project. In return, they should reciprocate that respect in
 addressing your issue, assessing changes, and helping you finalize your pull requests. In that spirit of mutual respect,
-we endeavour to review incoming issues and pull requests within 10 days, and will close any lingering issues or pull
+we endeavor to review incoming issues and pull requests within 10 days, and will close any lingering issues or pull
 requests after 60 days of inactivity.
 
-Please note that all of your interactions in the project are subject to our [Code of Conduct](CODE_OF_CONDUCT.md). This
+Please note that all of your interactions in the project are subject to our [Code of Conduct](/CODE_OF_CONDUCT.md). This
 includes creation of issues or pull requests, commenting on issues or pull requests, and extends to all interactions in
-any real-time space (eg. Slack, Discord, etc).
+any real-time space e.g., Slack, Discord, etc.
 
 ## Reporting Issues
 
@@ -20,7 +20,7 @@ When creating a new issue, please be sure to include a **title and clear descrip
 possible, and, if possible, a test case.
 
 **If you discover a security bug, please do not report it through GitHub. Instead, please see security procedures in
-[SECURITY.md](SECURITY.md).**
+[SECURITY.md](/SECURITY.md).**
 
 ## Sending Pull Requests
 

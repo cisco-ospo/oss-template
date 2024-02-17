@@ -1,7 +1,7 @@
 # Open Source Project Template
 
-[![Release](https://img.shields.io/github/v/release/wayfair-incubator/oss-template?display_name=tag)](CHANGELOG.md)
-[![Lint](https://github.com/wayfair-incubator/oss-template/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/wayfair-incubator/oss-template/actions/workflows/lint.yml)
+[![Release](https://img.shields.io/github/v/release/cisco-ospo/oss-template?display_name=tag)](CHANGELOG.md)
+[![Lint](https://github.com/cisco-ospo/oss-template/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/cisco-ospo/oss-template/actions/workflows/lint.yml)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](CODE_OF_CONDUCT.md)
 [![Maintainer](https://img.shields.io/badge/Maintainer-Cisco-lightblue)](https://opensource.cisco.com/)
 
@@ -14,7 +14,7 @@ In trying to keep this template as generic and reusable as possible, there are s
 - [ ] ✅ Select an appropriate license for your project. This can easily be achieved through the 'Add File' button on the GitHub UI, naming the file `LICENSE`, and selecting your desired license from the provided list.
 - [ ] Update the `<License name>` placeholder in this file to reflect the name of the license you selected above.
 - [ ] Replace `[INSERT CONTACT METHOD]` in [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) with a suitable communication channel.
-- [ ] Change references to `org_name` to the name of the org your repo belongs to (eg. `wayfair-incubator`):
+- [ ] Change references to `org_name` to the name of the org your repo belongs to (eg. `cisco-open`):
   - [ ] In [`README.md`](README.md)
   - [ ] In [`CONTRIBUTING.md`](CONTRIBUTING.md)
 - [ ] Change references to `repo_name` to the name of your new repo:
@@ -28,9 +28,7 @@ In trying to keep this template as generic and reusable as possible, there are s
   - [ ] In [`SECURITY.md`](SECURITY.md)
 - [ ] Add names and contact information for actual project maintainers to [`MAINTAINERS.md`](MAINTAINERS.md).
 - [ ] Delete the content of [`CHANGELOG.md`](CHANGELOG.md). We encourage you to [keep a changelog](https://keepachangelog.com/en/1.0.0/).
-- [ ] Configure [`renovate.json`](renovate.json) for your project's language and tooling dependencies.
-  - [ ] Note that the base `renovate.json` file included with this template inherits most of its configuration logic from Wayfair OSPO's recommended presets, hosted [here](https://github.com/wayfair/ospo-automation/blob/main/default.json). If your project does not require advanced dependency configuration, this may be sufficient for your needs.
-  - [ ] 💡 To learn more about using and configuring [Renovate](http://renovatebot.com/), check out our [wayfair.github.io](https://wayfair.github.io) article: **[Managing Project Dependencies](https://wayfair.github.io/docs/managing-dependencies/)**.
+- [ ] Configure [`.github/dependabot.yaml`](dependabot.yaml) for your project's language and tooling dependencies.
 - [ ] Replace the generic content in this file with the relevant details about your project.
 - [ ] Acknowledge that some features like [branch protection rules](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/managing-a-branch-protection-rule) are only available when the repo is `public`.
 - [ ] 🚨 Delete this section of the `README`!
