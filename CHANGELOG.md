@@ -20,5 +20,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Deprecate Renovate and fix GitHub URL refs by @lelia in #14
 - Bump actions/checkout from 3.6.0 to 4.1.1 by @dependabot in #15
 
-[unreleased]: https://github.com/wayfair-incubator/oss-template/compare/v1.0.0...HEAD
+[unreleased]: https://github.com/cisco-ospo/oss-template/compare/v1.0.0...HEAD
 [1.0.0]: https://github.com/cisco-ospo/oss-template/releases/tag/v1.0.0
