@@ -16,5 +16,5 @@ jobs:
       issues: write
       pull-requests: write
     with:
-      days-until-stale: 15
-      days-until-close: 30
+      days-until-stale: 60
+      days-until-close: 7
