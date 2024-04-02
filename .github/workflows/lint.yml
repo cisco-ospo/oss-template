@@ -3,7 +3,9 @@ name: lint
 on:
   push:
     branches:
+      # Run on pushes to default branch
       - main
+  # Run against pull requests
   pull_request:
 
 jobs:
