@@ -2,8 +2,8 @@
 
 [![Release](https://img.shields.io/github/v/release/cisco-ospo/oss-template?display_name=tag)](CHANGELOG.md)
 [![Lint](https://github.com/cisco-ospo/oss-template/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/cisco-ospo/oss-template/actions/workflows/lint.yml)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](CODE_OF_CONDUCT.md)
-[![Maintainer](https://img.shields.io/badge/Maintainer-Cisco-00bceb)](https://opensource.cisco.com)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-fbab2c.svg)](CODE_OF_CONDUCT.md)
+[![Maintainer](https://img.shields.io/badge/Maintainer-Cisco-00bceb.svg)](https://opensource.cisco.com)
 
 ## Before You Start
 
