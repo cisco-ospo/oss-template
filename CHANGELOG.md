@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.1] - 2024-05-17
 
 ### Added
+
 - Bump actions/checkout from 4.1.1 to 4.1.2 by @dependabot in #16
 - Bump actions/checkout from 4.1.2 to 4.1.3 in the github group by @dependabot in #17
 - Bump actions/checkout from 4.1.3 to 4.1.4 in the github group by @dependabot in #18
