@@ -1,0 +1,10 @@
+---
+extends: default
+
+rules:
+  line-length:
+    max: 80
+    level: warning
+  indentation: disable
+  truthy:
+    check-keys: false
