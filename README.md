@@ -1,7 +1,7 @@
 # Open Source Project Template
 
 [![Release](https://img.shields.io/github/v/release/cisco-ospo/oss-template?display_name=tag)](CHANGELOG.md)
-[![Lint](https://github.com/cisco-ospo/oss-template/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/cisco-ospo/oss-template/actions/workflows/lint.yml)
+[![Lint](https://github.com/cisco-ospo/oss-template/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/marketplace/actions/super-linter)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-fbab2c.svg)](CODE_OF_CONDUCT.md)
 [![Maintainer](https://img.shields.io/badge/Maintainer-Cisco-00bceb.svg)](https://opensource.cisco.com)
 
@@ -20,6 +20,7 @@ In trying to keep this template as generic and reusable as possible, there are s
 - [ ] Change references to `repo_name` to the name of your new repo:
   - [ ] In [`README.md`](README.md)
   - [ ] In [`CONTRIBUTING.md`](CONTRIBUTING.md)
+- [ ] Update the Release and Lint README badges to point to your project URL.
 - [ ] Update the link to the contribution guidelines to point to your project:
   - [ ] In [`.github/ISSUE_TEMPLATE/BUG_REPORT.md`](.github/ISSUE_TEMPLATE/BUG_REPORT.md)
   - [ ] In [`.github/PULL_REQUEST_TEMPLATE.md`](.github/PULL_REQUEST_TEMPLATE.md)
