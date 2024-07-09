@@ -31,6 +31,6 @@ Please provide the version number where this issue was encountered.
 
 ## Checklist
 
-<!-- TODO: Update the link below to point to your project's contributing guidelines -->
+<!-- TODO: Update the link below if docs stored in a different location  -->
 - [ ] I have read the [contributing guidelines](/CONTRIBUTING.md)
 - [ ] I have verified this does not duplicate an existing issue

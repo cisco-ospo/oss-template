@@ -1,14 +1,16 @@
 ## Description
 
-Please provide a meaningful description of what this change will do, or is for. Bonus points for including links to
-related issues, other PRs, or technical references.
+Please provide a meaningful description of what this change will do, or is for.
+Bonus points for including links to related issues, other PRs, or technical
+references.
 
-Note that by _not_ including a description, you are asking reviewers to do extra work to understand the context of this
-change, which may lead to your PR taking much longer to review, or result in it not being reviewed at all.
+Note that by _not_ including a description, you are asking reviewers to do extra
+work to understand the context of this change, which may lead to your PR taking
+much longer to review, or result in it not being reviewed at all.
 
 ## Type of Change
 
-- [ ] Bug Fix
+- [ ] Bugfix
 - [ ] New Feature
 - [ ] Breaking Change
 - [ ] Refactor
@@ -17,7 +19,7 @@ change, which may lead to your PR taking much longer to review, or result in it 
 
 ## Checklist
 
-<!-- TODO: Update the link below to point to your project's contributing guidelines -->
+<!-- TODO: Update the link below if docs stored in a different location  -->
 - [ ] I have read the [contributing guidelines](/CONTRIBUTING.md)
 - [ ] Existing issues have been referenced (where applicable)
 - [ ] I have verified this change is not present in other open pull requests
