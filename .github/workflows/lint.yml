@@ -34,7 +34,5 @@ jobs:
           LINTER_RULES_PATH: ".github/linters"
           MARKDOWN_CONFIG_FILE: ".markdownlint.yml"
           YAML_CONFIG_FILE: ".yamllint.yml"
-          # TODO: Change back to false after initial run
-          # VALIDATE_ALL_CODEBASE: false
-          VALIDATE_ALL_CODEBASE: true
+          VALIDATE_ALL_CODEBASE: false
           MULTI_STATUS: false
