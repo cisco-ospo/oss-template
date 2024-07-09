@@ -31,8 +31,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LINTER_RULES_PATH: ".github/linters"
+          MARKDOWN_CONFIG_FILE: ".markdownlint.yml"
           YAML_CONFIG_FILE: ".yamllint.yml"
-          MARKDOWN_CONFIG_FILE: ".markdownlint.json"
           # TODO: Change back to false after initial run
           # VALIDATE_ALL_CODEBASE: false
           VALIDATE_ALL_CODEBASE: true
