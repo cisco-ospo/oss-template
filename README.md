@@ -32,7 +32,7 @@ need to be made:
 - [ ] Replace `[INSERT CONTACT METHOD]` in
   [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) with a suitable communication
   channel.
-- [ ] Change references to `org_name` to the name of the org your repo belongs
+- [ ] Change references to `org_name` to the name of the org your repository belongs
   to (eg. `cisco-open`):
   - [ ] In [`README.md`](README.md)
   - [ ] In [`CONTRIBUTING.md`](CONTRIBUTING.md)
@@ -58,7 +58,7 @@ need to be made:
   your project.
 - [ ] Acknowledge that some features like [branch protection
   rules](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/managing-a-branch-protection-rule)
-  are only available when the repo is `public`.
+  are only available when the repository is `public`.
 - [ ] 🚨 Delete this section of the `README`!
 
 ## About The Project
@@ -82,13 +82,13 @@ install them.
 
 ### Installation
 
-1. Clone the repo
+1. Clone the repository
 
    ```sh
    git clone https://github.com/org_name/repo_name.git
    ```
 
-2. Install NPM packages
+2. Install npm packages
 
    ```sh
    npm install
