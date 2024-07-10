@@ -33,6 +33,7 @@ body:
     validations:
       required: false
   - type: textarea
+    id: steps
     attributes:
       label: Steps to Reproduce
       description: Please provide all steps to reproduce the behavior

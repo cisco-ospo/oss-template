@@ -44,6 +44,8 @@ need to be made:
   - [ ] In
     [`.github/ISSUE_TEMPLATE/bug_report.yml`](.github/ISSUE_TEMPLATE/bug_report.yml)
   - [ ] In
+    [`.github/ISSUE_TEMPLATE/feature_request.yml`](.github/ISSUE_TEMPLATE/feature_request.yml)
+  - [ ] In
     [`.github/pull_request_template.md`](.github/pull_request_template.md)
 - [ ] Replace the `<project name>` placeholder with the name of your project:
   - [ ] In [`CONTRIBUTING.md`](CONTRIBUTING.md)
