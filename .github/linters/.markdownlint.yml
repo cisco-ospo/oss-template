@@ -34,4 +34,6 @@ MD025:
 
 # MD041/first-line-heading/first-line-h1
 # https://github.com/DavidAnson/markdownlint/blob/v0.34.0/doc/md041.md
-MD041: false
+MD041:
+  # RegExp for matching title in front matter
+  front_matter_title: ""
