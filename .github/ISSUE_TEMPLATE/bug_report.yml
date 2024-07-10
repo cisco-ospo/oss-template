@@ -26,7 +26,9 @@ body:
     id: version
     attributes:
       label: Affected Version
-      description: If applicable, provide the version number where this issue was encountered
+      description: |
+        If applicable, provide the version number or release tag where this
+        issue was encountered
       options:
         - v1.0.0
       default: 0
