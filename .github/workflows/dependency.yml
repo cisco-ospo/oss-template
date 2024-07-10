@@ -25,6 +25,6 @@ jobs:
         uses: actions/dependency-review-action@0c155c5e8556a497adf53f2c18edabf945ed8e70 # v4.3.2
         with:
           fail-on-severity: "high"
-          deny-licenses: AGPL-1.0, AGPL-3.0
+          deny-licenses: "AGPL-1.0, AGPL-3.0"
           comment-summary-in-pr: true
           warn-on-openssf-scorecard-level: 3
