@@ -3,8 +3,9 @@ extends: default
 
 rules:
   line-length:
-    max: 80
+    max: 120
     level: warning
+  comments: disable
   indentation: disable
   truthy:
     check-keys: false

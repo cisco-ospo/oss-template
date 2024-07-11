@@ -36,15 +36,17 @@ need to be made:
   to (eg. `cisco-open`):
   - [ ] In [`README.md`](README.md)
   - [ ] In [`CONTRIBUTING.md`](CONTRIBUTING.md)
-- [ ] Change references to `repo_name` to the name of your new repo:
+- [ ] Change references to `repo_name` to the name of your new repository:
   - [ ] In [`README.md`](README.md)
   - [ ] In [`CONTRIBUTING.md`](CONTRIBUTING.md)
-- [ ] Update the Release and Lint README badges to point to your project URL.
-- [ ] Update the link to the contribution guidelines to point to your project:
+- [ ] Update the Release and Lint `README` badges to point to your project URL.
+- [ ] Update the link to the contribution guidelines if necessary:
   - [ ] In
-    [`.github/ISSUE_TEMPLATE/BUG_REPORT.md`](.github/ISSUE_TEMPLATE/BUG_REPORT.md)
+    [`.github/ISSUE_TEMPLATE/bug_report.yml`](.github/ISSUE_TEMPLATE/bug_report.yml)
   - [ ] In
-    [`.github/PULL_REQUEST_TEMPLATE.md`](.github/PULL_REQUEST_TEMPLATE.md)
+    [`.github/ISSUE_TEMPLATE/feature_request.yml`](.github/ISSUE_TEMPLATE/feature_request.yml)
+  - [ ] In
+    [`.github/pull_request_template.md`](.github/pull_request_template.md)
 - [ ] Replace the `<project name>` placeholder with the name of your project:
   - [ ] In [`CONTRIBUTING.md`](CONTRIBUTING.md)
   - [ ] In [`SECURITY.md`](SECURITY.md)
@@ -52,7 +54,7 @@ need to be made:
   [`MAINTAINERS.md`](MAINTAINERS.md).
 - [ ] Delete the content of [`CHANGELOG.md`](CHANGELOG.md). We encourage you to
   [keep a changelog](https://keepachangelog.com/en/1.0.0/).
-- [ ] Configure [`.github/dependabot.yaml`](dependabot.yaml) for your project's
+- [ ] Configure [`.github/dependabot.yml`](dependabot.yml) for your project's
   language and tooling dependencies.
 - [ ] Replace the generic content in this file with the relevant details about
   your project.

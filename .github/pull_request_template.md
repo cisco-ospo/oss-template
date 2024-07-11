@@ -1,4 +1,4 @@
-## Description
+# Description
 
 Please provide a meaningful description of what this change will do, or is for.
 Bonus points for including links to related issues, other PRs, or technical
@@ -19,7 +19,6 @@ much longer to review, or result in it not being reviewed at all.
 
 ## Checklist
 
-<!-- TODO: Update the link below if docs stored in a different location  -->
 - [ ] I have read the [contributing guidelines](/CONTRIBUTING.md)
 - [ ] Existing issues have been referenced (where applicable)
 - [ ] I have verified this change is not present in other open pull requests
