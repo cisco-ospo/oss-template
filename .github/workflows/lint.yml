@@ -34,5 +34,5 @@ jobs:
           LINTER_RULES_PATH: ".github/linters"
           MARKDOWN_CONFIG_FILE: ".markdownlint.yml"
           YAML_CONFIG_FILE: ".yamllint.yml"
-          VALIDATE_ALL_CODEBASE: false
+          VALIDATE_ALL_CODEBASE: true
           MULTI_STATUS: false
