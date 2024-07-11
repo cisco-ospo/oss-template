@@ -50,5 +50,6 @@ body:
       options:
         - label: I have read the [contributing guidelines](/CONTRIBUTING.md)
           required: true
-        - label: I have verified this does not duplicate an existing feature request
+        - label: | 
+            I have verified this does not duplicate an existing feature request
           required: true
