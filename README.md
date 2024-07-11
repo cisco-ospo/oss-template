@@ -36,7 +36,7 @@ need to be made:
   to (eg. `cisco-open`):
   - [ ] In [`README.md`](README.md)
   - [ ] In [`CONTRIBUTING.md`](CONTRIBUTING.md)
-- [ ] Change references to `repo_name` to the name of your new repo:
+- [ ] Change references to `repo_name` to the name of your new repository:
   - [ ] In [`README.md`](README.md)
   - [ ] In [`CONTRIBUTING.md`](CONTRIBUTING.md)
 - [ ] Update the Release and Lint `README` badges to point to your project URL.
