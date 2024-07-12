@@ -29,7 +29,7 @@ need to be made:
   the provided list.
 - [ ] Update the `<License name>` placeholder in this file to reflect the name
   of the license you selected above.
-- [ ] Replace `[INSERT CONTACT METHOD]` in
+- [ ] Replace `<INSERT_CONTACT_METHOD>` in
   [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) with a suitable communication
   channel.
 - [ ] Change references to `org_name` to the name of the org your repository belongs
@@ -50,11 +50,14 @@ need to be made:
 - [ ] Replace the `<project name>` placeholder with the name of your project:
   - [ ] In [`CONTRIBUTING.md`](CONTRIBUTING.md)
   - [ ] In [`SECURITY.md`](SECURITY.md)
-- [ ] Add names and contact information for actual project maintainers to
+- [ ] Add names and contact information for the project maintainers to
   [`MAINTAINERS.md`](MAINTAINERS.md).
-- [ ] Delete the content of [`CHANGELOG.md`](CHANGELOG.md). We encourage you to
-  [keep a changelog](https://keepachangelog.com/en/1.0.0/).
-- [ ] Configure [`.github/dependabot.yml`](dependabot.yml) for your project's
+- [ ] Update the `<project-name>` placeholder in
+  [`.github/CODEOWNERS`](.github/CODEOWNERS) as well as the
+  `<maintainer-team-name>` and `<admin-team-name>` entries.
+- [ ] Delete the release placeholder content in [`CHANGELOG.md`](CHANGELOG.md).
+  We encourage you to [keep a changelog](https://keepachangelog.com/en/1.0.0/).
+- [ ] Configure [`.github/dependabot.yml`](.github/dependabot.yml) for your project's
   language and tooling dependencies.
 - [ ] Replace the generic content in this file with the relevant details about
   your project.
