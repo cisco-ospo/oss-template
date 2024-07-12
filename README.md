@@ -59,6 +59,13 @@ need to be made:
   We encourage you to [keep a changelog](https://keepachangelog.com/en/1.0.0/).
 - [ ] Configure [`.github/dependabot.yml`](.github/dependabot.yml) for your project's
   language and tooling dependencies.
+- [ ] In [`.github/settings.yml](.github/settings.yml), update the following fields:
+  - [ ] `name`: Replace with the repository name for your project
+  - [ ] `description`: A short, 1-2 sentence description of your project
+  - [ ] `teams`: Replace the `<admin-team-name>` and `<maintainer-team-name>`
+    entries with the appropriate team names
+  - [ ] `branches`: Customize branch protection settings as appropriate for your
+    project _(please **do not** disable branch protection entirely!)_
 - [ ] Replace the generic content in this file with the relevant details about
   your project.
 - [ ] Acknowledge that some features like [branch protection
