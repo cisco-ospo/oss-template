@@ -62,9 +62,8 @@ need to be made:
 - [ ] In [`.github/settings.yml`](.github/settings.yml), update the following fields:
   - [ ] `name`: Replace with the repository name for your project
   - [ ] `description`: A short, 1-2 sentence description of your project
-  - [ ] `teams`: Replace the `<admin-team-name>` and `<maintainer-team-name>`
-    entries with the appropriate team names
-  - [ ] `branches`: Customize branch protection settings as appropriate for your
+  - [ ] `teams`: Uncomment and update the GitHub team names and permissions as appropriate
+  - [ ] `branches`: Uncomment and enable branch protection settings for your
     project _(please **do not** disable branch protection entirely!)_
 - [ ] Replace the generic content in this file with the relevant details about
   your project.
