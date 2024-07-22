@@ -40,7 +40,7 @@ need to be made:
   - [ ] In [`README.md`](README.md)
   - [ ] In [`CONTRIBUTING.md`](CONTRIBUTING.md)
 - [ ] Update the Release and Lint `README` badges to point to your project URL.
-- [ ] Update the link to the contribution guidelines if necessary:
+- [ ] Update the links to `CONTRIBUTING.md` to point to your project URL:
   - [ ] In
     [`.github/ISSUE_TEMPLATE/bug_report.yml`](.github/ISSUE_TEMPLATE/bug_report.yml)
   - [ ] In
