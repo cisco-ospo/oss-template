@@ -47,6 +47,9 @@ need to be made:
     [`.github/ISSUE_TEMPLATE/feature_request.yml`](.github/ISSUE_TEMPLATE/feature_request.yml)
   - [ ] In
     [`.github/pull_request_template.md`](.github/pull_request_template.md)
+- [ ] Update the `Affected Version` tags in
+  [`.github/ISSUE_TEMPLATE/bug_report.yml`](.github/ISSUE_TEMPLATE/bug_report.yml)
+  if applicable.
 - [ ] Replace the `<project name>` placeholder with the name of your project:
   - [ ] In [`CONTRIBUTING.md`](CONTRIBUTING.md)
   - [ ] In [`SECURITY.md`](SECURITY.md)
