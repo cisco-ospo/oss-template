@@ -12,6 +12,19 @@ Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### TBA
 
+## [1.0.3] - 2024-07-29
+
+### Added
+
+* Minor `README` fixes by @lelia in #42
+* Bump the github group with 2 updates by @dependabot in #43
+* Bump step-security/harden-runner from 2.7.1 to 2.8.1 by @dependabot in #44
+* Bump step-security/harden-runner from 2.8.1 to 2.9.0 by @dependabot in #45
+* Issue form & template fixes by @lelia in #47
+* Fix `CONTRIBUTION.md` link by @lelia in #49
+* Adapt phrasing from `ossf/scorecard` to `SECURITY.md` policy template by
+  @lelia in #52
+
 ## [1.0.2] - 2024-07-12
 
 ### Added
@@ -57,7 +70,8 @@ Versioning](https://semver.org/spec/v2.0.0.html).
 * Deprecate Renovate and fix GitHub URL refs by @lelia in #14
 * Bump actions/checkout from 3.6.0 to 4.1.1 by @dependabot in #15
 
-[unreleased]: https://github.com/cisco-ospo/oss-template/compare/v1.0.2...HEAD
+[unreleased]: https://github.com/cisco-ospo/oss-template/compare/v1.0.3...HEAD
+[1.0.3]: https://github.com/cisco-ospo/oss-template/releases/tag/v1.0.3
 [1.0.2]: https://github.com/cisco-ospo/oss-template/releases/tag/v1.0.2
 [1.0.1]: https://github.com/cisco-ospo/oss-template/releases/tag/v1.0.1
 [1.0.0]: https://github.com/cisco-ospo/oss-template/releases/tag/v1.0.0
