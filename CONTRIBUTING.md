@@ -39,11 +39,11 @@ major version release.
 
 ## Other Ways to Contribute
 
-We welcome anyone that wants to contribute to `<project name>` to triage and
+We welcome anyone who wants to contribute to `<project name>` to triage and
 reply to open issues to help troubleshoot and fix existing bugs. Here is what
 you can do:
 
-- Help ensure that existing issues follows the recommendations from the
+- Help ensure that existing issues follow the recommendations from the
   _[Reporting Issues](#reporting-issues)_ section, providing feedback to the
   issue's author on what might be missing.
 - Review and update the existing content of our
@@ -53,6 +53,6 @@ you can do:
   applications that use `<project name>`.
 - Write a test, or add a missing test case to an existing test.
 
-Thanks again for your interest on contributing to `<project name>`!
+Thanks again for your interest in contributing to `<project name>`!
 
 :heart:
